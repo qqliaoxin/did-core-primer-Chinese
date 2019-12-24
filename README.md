@@ -1,5 +1,5 @@
-# DID-Document-in-Chinese
-A Chinese Translation of The W3C DID Document: A Primer for Decentralized Identifiers
+# DID-Primer-in-Chinese
+A Chinese Translation of The W3C DID Primer Document: A Primer for Decentralized Identifiers
 
 一份W3C DID文档——《初识分布式身份标识》的中文翻译
 
