@@ -8,6 +8,7 @@ A Chinese Translation of The W3C DID Document: A Primer for Decentralized Identi
 ## Editing...... 编辑中。。。
 ### 进度/progress 
 - 12.23 Abstract and Content。 PART 1.2
+- 12.24 PART 3.4.5.6
 
 
 
